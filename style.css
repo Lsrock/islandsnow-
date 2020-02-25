@@ -3,3 +3,19 @@
   box-shadow: none;
   border: none;
 }
+
+.ui.borderless.centermenu.menu{
+  box-shadow: none;
+  border: none;
+}
+
+.footer-background{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.ui.labeled.email.input{
+  box-shadow: none;
+  border: none;
+  padding-top: 5px;
+}
